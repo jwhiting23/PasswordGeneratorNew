@@ -107,7 +107,7 @@ To install this code, download the zip file, or use GitHub's guidelines to clone
 
 ## Authors
 
-* **Jamie Rachael Morris** - *Initial work* - [Git Hub Profile](https://github.com/jwhiting23)
+* **Jonathan Whiting** - *Initial work* - [Git Hub Profile](https://github.com/jwhiting23)
 * UNH Project Design
 
 ## Acknowledgments
